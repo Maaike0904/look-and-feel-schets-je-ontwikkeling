@@ -2,6 +2,7 @@
 
 # Mijn afgelopen tijd :horse:
 * *Obstakels/hindernissen* - staan voor de afgelopen opdrachten, en geven aan hoe het is gegaan.
+* *Paarse tekst* - de obstakels die mij tegenhouden om mijn einddoel te bereiken.
 
 ![WhatsApp Image 2022-11-21 at 13 38 50 (1)](https://user-images.githubusercontent.com/112861144/206146160-6283513c-a57b-4f1f-9440-a2cec07272f5.jpeg)
 
