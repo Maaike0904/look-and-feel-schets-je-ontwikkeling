@@ -1,8 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Mijn afgelopen tijd :horse:
 
-# Naam deeltaak
+![WhatsApp Image 2022-11-21 at 13 38 50 (1)](https://user-images.githubusercontent.com/112861144/206146160-6283513c-a57b-4f1f-9440-a2cec07272f5.jpeg)
 
 
 ## Licentie
